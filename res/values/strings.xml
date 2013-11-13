@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scanvine</string>
+    <string name="app_title">Scanvine</string>
+    <string name="app_logo">Scanvine</string>
+    <string name="tag_line">what\nthe\nworld\nis\nsharing</string>
+    <string name="image">Image</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="sections">Sections</string>
+    <string name="time">Time Period</string>
+    <string name="downloads">Downloads</string>
+    <string name="sources">Sources</string>
+    <string name="about">About</string>
+    <string name="open_in">Open Stories In</string>
+    <string name="delete_this_download">Delete this download?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="sort_by">Sort By</string>
+
+</resources>

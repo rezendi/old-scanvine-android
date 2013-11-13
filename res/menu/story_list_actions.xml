@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_time"
+          android:icon="@drawable/ic_action_time"
+          android:title="@string/time"
+          android:showAsAction="always"/>
+    <item android:id="@+id/action_section"
+          android:icon="@drawable/ic_action_labels"
+          android:title="@string/sections"
+          android:showAsAction="always"/>
+    <item android:id="@+id/action_downloads"
+          android:title="@string/downloads"/>
+    <item android:id="@+id/action_sources"
+          android:title="@string/sources"/>
+    <item android:id="@+id/action_about"
+          android:title="@string/about"/>
+    <item android:id="@+id/action_open_in"
+          android:title="@string/open_in"/>
+</menu>

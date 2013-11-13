@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_time"
+          android:icon="@drawable/ic_action_time"
+          android:title="@string/time"
+          android:showAsAction="always"/>
+</menu>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_section"
+          android:icon="@drawable/ic_action_labels"
+          android:title="@string/sections"
+          android:showAsAction="always"/>
+    <item android:id="@+id/action_sort"
+          android:icon="@drawable/ic_action_sort_by_size"
+          android:title="@string/sort_by"
+          android:showAsAction="always"/>
+</menu>
