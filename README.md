@@ -1,7 +1,7 @@
-scanvine-android
-================
+scanvine for Android
+====================
 
-Android client for the Scanvine news aggregator.
+Android client for the Scanvine news aggregator: http://www.scanvine.com/
 
 License
 =======
